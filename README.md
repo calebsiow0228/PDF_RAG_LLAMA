@@ -37,5 +37,5 @@ Before running the application, ensure you have the following installed and set 
 s
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/interactive-qa-system.git
-   cd interactive-qa-system
+   git clone https://github.com/calebsiow0228/PDF_RAG_LLAMA.git
+   cd PDF_RAG_LLAMA
